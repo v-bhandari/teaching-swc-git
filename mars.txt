@@ -6,4 +6,8 @@ the two moons might be a problem for the wolfman
 
 but the mummy will appreciate the lack of humidity 
 
+<<<<<<< HEAD
 Hi Vinny - I hope your internet starts working soon 
+=======
+added extra line
+>>>>>>> ee1cad73eb89b5dd93c4e870dd471f4f2027a1a2
